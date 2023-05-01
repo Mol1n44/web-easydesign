@@ -2,7 +2,8 @@
 
 Steps:
 
-- Extract both .rar
+- Extract css.rar
+- Extract imagene.rar
 - Ejecute index.html
 
 Enjoy
